@@ -42,6 +42,6 @@ Example from the BFH European Meet-Up:
 
 ## Backstory / Rule templates
 Canva Template link: https://canva.link/mvkwu38jp5xk09w
-Also uploaded as pptx  
+Also uploaded as pptx (But without font styles)
 
 
