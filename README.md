@@ -4,10 +4,10 @@ Information, templates and other stuff for the iGEM heist game for participating
 **The Game**
 * [General explanation](#general-explanation) - not uploaded yet
 * Backrgound Story - not uploaded yet
-    * Short version - not uploaded yet
-    * Detailed version - not uploaded yet
-* Rules - not uploaded yet
-    * Challenge mechanic - not uploaded yet
+    * [Short version](#tldr) - not uploaded yet
+    * [Detailed version](#whole-story) - not uploaded yet
+* [Rules](#rules) - not uploaded yet
+    * [Challenge mechanic](#challenging-teams) - not uploaded yet
 
 **The Heist at your meet-up**
 * [Instagram posts to configure](#style-2-configure-for-your-meet-up)
