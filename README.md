@@ -11,4 +11,11 @@ Logo available as svg and png.
   </div>
 </div>
 
-
+## Instagram templates
+### Style 1
+<div class="row">
+  <div class="column">
+    <img width="300px" src="https://github.com/liliana-sanfilippo/igem-heist/blob/main/social_media/style1_front.png"/>
+    <img width="300px" src="https://github.com/liliana-sanfilippo/igem-heist/blob/main/social_media/style1_slide.png"/>
+  </div>
+</div>
