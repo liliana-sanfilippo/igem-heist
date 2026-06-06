@@ -34,11 +34,16 @@ Available as pptx
 ### Style 2 (Configure for your meet-up)
 This can be found at the temmplate link. Please adapt with your colors, information and logo. 
 
-<img width="300" alt="Crossover Front Page(1)" src="https://github.com/user-attachments/assets/b795b702-4e2c-448e-b10e-ec645e172eb4" />
 
 Example from the BFH European Meet-Up: 
+<div class="row">
+  <div class="column">
+    <img width="300" alt="Crossover Front Page(1)" src="https://github.com/user-attachments/assets/b795b702-4e2c-448e-b10e-ec645e172eb4" />
 
 <img width="300"  alt="Crossover Front Page" src="https://github.com/user-attachments/assets/667d40ef-580d-4ddf-997d-008f31d46f36" />
+  </div>
+</div>
+
 
 ## Backstory / Rule templates for meet-ups
 Canva Template link: https://canva.link/mvkwu38jp5xk09w
