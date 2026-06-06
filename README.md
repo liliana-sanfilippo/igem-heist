@@ -1,6 +1,8 @@
 # igem-heist
 Information, templates and other stuff for the iGEM heist game for participating teams and tems doing meet-ups, etc. 
 
+[Heist Instagram page](https://www.instagram.com/igem.heist/)
+
 **The Game**
 * [General explanation](#general-explanation) - not uploaded yet
 * Backrgound Story - not uploaded yet
