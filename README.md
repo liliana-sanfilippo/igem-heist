@@ -6,16 +6,24 @@ Information, templates and other stuff for the iGEM heist game for participating
 Logo available as svg and png. 
 <div class="row">
   <div class="column">
-    <img width="300px" src="https://github.com/liliana-sanfilippo/igem-heist/blob/main/Heist%20Instagram%20Template.png"/>
+    <img width="300px" src="https://github.com/liliana-sanfilippo/igem-heist/blob/main/social_media/Heist%20Instagram%20Template.png"/>
     <img width="300px" src="https://github.com/liliana-sanfilippo/igem-heist/blob/main/heist_logo.png"/>
   </div>
 </div>
 
 ## Instagram templates
 ### Style 1
+Available as pptx
 <div class="row">
   <div class="column">
     <img width="300px" src="https://github.com/liliana-sanfilippo/igem-heist/blob/main/social_media/style1_front.png"/>
     <img width="300px" src="https://github.com/liliana-sanfilippo/igem-heist/blob/main/social_media/style1_slide.png"/>
+  </div>
+</div>
+
+### Brick location 
+<div class="row">
+  <div class="column">
+    <img width="300px" src="https://github.com/liliana-sanfilippo/igem-heist/blob/main/social_media/brick_location.png"/>
   </div>
 </div>
