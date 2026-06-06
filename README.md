@@ -40,7 +40,7 @@ Example from the BFH European Meet-Up:
 
 <img width="300"  alt="Crossover Front Page" src="https://github.com/user-attachments/assets/667d40ef-580d-4ddf-997d-008f31d46f36" />
 
-## Backstory / Rule templates
+## Backstory / Rule templates for meet-ups
 Canva Template link: https://canva.link/mvkwu38jp5xk09w
 Also uploaded as pptx (But without font styles)
 
